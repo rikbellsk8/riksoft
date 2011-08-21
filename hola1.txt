@@ -2,3 +2,4 @@ Archivo de Bienvenida en mi repo
 primera clase
 primer commit
 eso es todo
+asi es manito
